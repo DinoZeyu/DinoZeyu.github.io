@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Retinal vessel segmentation thumbnail">
+  <rect width="160" height="160" rx="6" fill="#f6f2f5"/>
+  <circle cx="80" cy="80" r="56" fill="#fffafc" stroke="#b58ca6" stroke-width="5"/>
+  <path d="M76 25c10 28 7 45-3 64-7 14-7 27 3 45" stroke="#b23a62" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <path d="M78 70c-18-11-30-12-48-7M73 91c-18 5-28 15-39 31M84 69c18-15 31-18 48-15M83 94c18 5 29 15 41 31" stroke="#d87291" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <circle cx="80" cy="80" r="9" fill="#693b55"/>
+</svg>

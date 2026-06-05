@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Fact verification evidence diagnostic thumbnail">
+  <rect width="160" height="160" rx="6" fill="#f4f5f7"/>
+  <rect x="20" y="25" width="120" height="32" rx="6" fill="#ffffff" stroke="#b8c0cc"/>
+  <rect x="20" y="68" width="120" height="32" rx="6" fill="#ffffff" stroke="#b8c0cc"/>
+  <rect x="20" y="111" width="120" height="32" rx="6" fill="#ffffff" stroke="#b8c0cc"/>
+  <path d="M34 41h53M34 84h43M34 127h64" stroke="#6d7786" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="116" cy="41" r="10" fill="#6ba36f"/>
+  <path d="M111 41l4 4 8-9" stroke="#fff" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <circle cx="116" cy="84" r="10" fill="#d66a5f"/>
+  <path d="M111 79l10 10M121 79l-10 10" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="116" cy="127" r="10" fill="#e4af45"/>
+  <path d="M116 121v7" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+</svg>

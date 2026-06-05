@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-label="Email icon">
+  <rect x="14" y="22" width="92" height="72" rx="12" fill="#f5fbff" stroke="#1678d2" stroke-width="6"/>
+  <path d="M22 34l38 31 38-31" fill="none" stroke="#1678d2" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="8" y="38" width="48" height="52" rx="8" fill="#106ebe"/>
+  <text x="32" y="73" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#fff">O</text>
+</svg>

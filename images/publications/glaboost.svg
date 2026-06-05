@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="GlaBoost multimodal risk stratification thumbnail">
+  <rect width="160" height="160" rx="6" fill="#f3f7ef"/>
+  <rect x="18" y="28" width="34" height="34" rx="6" fill="#ffffff" stroke="#9eb88a"/>
+  <rect x="18" y="98" width="34" height="34" rx="6" fill="#ffffff" stroke="#9eb88a"/>
+  <rect x="108" y="28" width="34" height="34" rx="6" fill="#ffffff" stroke="#9eb88a"/>
+  <rect x="108" y="98" width="34" height="34" rx="6" fill="#ffffff" stroke="#9eb88a"/>
+  <circle cx="80" cy="80" r="26" fill="#6ba36f"/>
+  <path d="M45 58l20 13M45 103l20-14M115 58L95 71M115 103L95 89" stroke="#6ba36f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M68 80h24M80 68v24" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+</svg>

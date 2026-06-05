@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Synthetic mathematical reasoning thumbnail">
+  <rect width="160" height="160" rx="6" fill="#f7f3ea"/>
+  <rect x="16" y="18" width="128" height="124" rx="8" fill="#fffdf8" stroke="#d9cdb7"/>
+  <path d="M35 52h30M35 72h54M35 92h38M35 112h68" stroke="#7f8fa6" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="112" cy="52" r="18" fill="#4f8bd6"/>
+  <path d="M101 52h22M112 41v22" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+  <path d="M101 103c11-22 25-22 36 0M101 116h36" stroke="#e37b40" stroke-width="5" stroke-linecap="round" fill="none"/>
+</svg>

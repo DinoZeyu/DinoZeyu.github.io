@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="MaBoost gradient boosted sequence representation thumbnail">
+  <rect width="160" height="160" rx="6" fill="#f8f2ed"/>
+  <path d="M25 123h110" stroke="#b9a28e" stroke-width="5" stroke-linecap="round"/>
+  <rect x="33" y="80" width="16" height="43" rx="3" fill="#d77b54"/>
+  <rect x="59" y="61" width="16" height="62" rx="3" fill="#e0a35b"/>
+  <rect x="85" y="43" width="16" height="80" rx="3" fill="#6d9b8f"/>
+  <rect x="111" y="28" width="16" height="95" rx="3" fill="#557a95"/>
+  <path d="M34 42h92M34 42l13-10M34 42l13 10" stroke="#6d6f7a" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <path d="M40 37c20 28 47 38 82 35" stroke="#6d6f7a" stroke-width="4" stroke-linecap="round" fill="none"/>
+</svg>

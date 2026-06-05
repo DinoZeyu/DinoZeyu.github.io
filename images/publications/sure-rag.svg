@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="SURE-RAG evidence aggregation thumbnail">
+  <rect width="160" height="160" rx="6" fill="#eef4fb"/>
+  <rect x="16" y="30" width="42" height="28" rx="6" fill="#ffffff" stroke="#8aa7c7"/>
+  <rect x="16" y="72" width="42" height="28" rx="6" fill="#ffffff" stroke="#8aa7c7"/>
+  <rect x="16" y="114" width="42" height="28" rx="6" fill="#ffffff" stroke="#8aa7c7"/>
+  <circle cx="111" cy="86" r="31" fill="#4f8bd6"/>
+  <path d="M58 44l26 27M58 86h22M58 128l26-27" stroke="#4f8bd6" stroke-width="5" stroke-linecap="round"/>
+  <path d="M96 86l11 11 21-25" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

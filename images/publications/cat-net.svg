@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="CAT-Net medical report image-to-text thumbnail">
+  <rect width="160" height="160" rx="6" fill="#f2f4f8"/>
+  <rect x="16" y="32" width="48" height="70" rx="6" fill="#ffffff" stroke="#93a4b7"/>
+  <path d="M29 66c8-14 22-14 31 0M29 79h31" stroke="#557a95" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M69 66h24M69 66l-9-8M69 66l-9 8" stroke="#d46a5a" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <rect x="96" y="35" width="48" height="92" rx="6" fill="#fffdf8" stroke="#c9b999"/>
+  <path d="M106 55h27M106 72h21M106 89h30M106 106h23" stroke="#7a7f89" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="79" cy="102" r="10" fill="#f0b55f"/>
+</svg>
